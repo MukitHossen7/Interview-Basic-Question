@@ -58,3 +58,21 @@ Rendering Locations : Build Process (Pre-rendered)
 সব পেজের জন্য HTML ফাইল বিল্ড টাইমে তৈরি হয়ে যায়।
 সার্ভারে এই স্ট্যাটিক ফাইলগুলো রাখা হয়।
 ইউজার যখন ওয়েবসাইট ভিজিট করে, তখন সরাসরি HTML ফাইল পায়—সার্ভারে কোনো নতুন রেন্ডারিং লাগে না।
+
+## JavaScript Interview Questions Fof Freshers
+
+### 1.JavaScript কী?
+
+-JavaScript হল একটি high-level ,Interpreted programming Language,যা মূলত ওয়েব ডেভেলপমেন্টের জন্য ব্যবহৃত হয়। এটি একটি client-side scripting language ,তবে এখন Node.js এর সাহায্যে server-side কাজেও ব্যবহৃত হয়।
+
+### 2.ECMAScript কী?
+
+-ECMAScript(ES) JavaScript-এর জন্য নিয়ম ও স্ট্যান্ডার্ড নির্ধারণ করে। ES6 (ECMAScript 2015) থেকে শুরু করে।
+
+### 3.JavaScript এবং ECMAScript-এর মধ্যে পার্থক্য
+
+**JavaScript
+1.এটি একটি প্রোগ্রামিং language
+2.ব্রাউজারে বা সার্ভারে রান করে
+**ECMAScript
+1.JavaScript-এর জন্য নিয়ম/স্ট্যান্ডার্ড নির্ধারণ করে
