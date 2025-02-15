@@ -74,4 +74,7 @@ HTML Tag হল কোডের সেই অংশ যা ব্রাউজা
 1.Opening Tag <p>
 2.Closing Tag </p>
 
-## DOCTYPE কীভাবে ব্রাউজারের জন্য গুরুত্বপূর্ণ?
+## JavaScript
+
+1.What is ES6?
+Answer: ES6 (ECMAScript 2015) is a major update to JavaScript that introduced new features like let, const, arrow functions, template literals, destructuring, and modules.
