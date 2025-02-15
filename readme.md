@@ -99,3 +99,6 @@ HTML Tag হল কোডের সেই অংশ যা ব্রাউজা
 
 - 6.Destructuring কী?
   Answer: Destructuring ব্যবহার করে Array বা Object থেকে নির্দিষ্ট মান সহজেই বের করা যায়। Array Destructuring use = [ ] , Object Destructuring use = { }
+
+- 7.JavaScript-এর Class কীভাবে কাজ করে?
+  Answer: ES6-এ OOP (Object-Oriented Programming) সহজ করতে class ইন্ট্রোডিউস করা হয়েছে।
