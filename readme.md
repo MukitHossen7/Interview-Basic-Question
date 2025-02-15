@@ -91,3 +91,8 @@ HTML Tag হল কোডের সেই অংশ যা ব্রাউজা
 - 4.Template Literals কী?
   Answer: Template Literals ব্যাকটিক (`) ব্যবহার করে স্ট্রিং লেখার সুবিধা দেয় এবং when you need to include variables or expressions inside a string.
   Answer: Template Literals (``) ডাইনামিক স্ট্রিং তৈরির জন্য ব্যবহার হয়।
+
+- 5. Spread এবং Rest Operator এর পার্থক্য কী?
+     Answer:
+     Spread (...): অ্যারে বা অবজেক্ট কপি বা মিশানোর জন্য ব্যবহৃত হয়।
+     Rest Operator (...): ফাংশনে অবশিষ্ট আর্গুমেন্ট গ্রহণ/recive করতে ব্যবহৃত হয়। এটি একটি ফাংশনে পাস করা সকল অতিরিক্ত আর্গুমেন্টকে একটি অ্যারেতে রূপান্তরিত করে। এই ফিচারটি তখন ব্যবহার করা হয় যখন ফাংশনে পাস করা আর্গুমেন্টের সংখ্যা অজানা থাকে।
