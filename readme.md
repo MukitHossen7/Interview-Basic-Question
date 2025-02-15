@@ -76,10 +76,16 @@ HTML Tag হল কোডের সেই অংশ যা ব্রাউজা
 
 ## JavaScript
 
-1.What is ES6?
-Answer: ES6 (ECMAScript 2015) is a major update to JavaScript that introduced new features like let, const, arrow functions, template literals, destructuring, and modules.
+- 1.What is ES6?
+  Answer: ES6 (ECMAScript 2015) is a major update to JavaScript that introduced new features like let, const, arrow functions, template literals, destructuring, and modules.
 
-2.What is the difference between let, const, and var?
-var: Function-scoped, can be redeclared, hoisted.
-let: Block-scoped, cannot be redeclared, but its value can be reassigned(mutable)
-const: Block-scoped, cannot be redeclared or reassigned(immutable)
+- 2.What is the difference between let, const, and var?
+  var: Function-scoped, can be redeclared, hoisted.
+  let: Block-scoped, cannot be redeclared, but its value can be reassigned(mutable)
+  const: Block-scoped, cannot be redeclared or reassigned(immutable)
+
+- 3.What is an Arrow Function?
+  Answer: Arrow functions allow a short syntax for writing function expressions.
+  You don't need the function keyword, the return keyword, and the curly brackets
+
+-
