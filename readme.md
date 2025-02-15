@@ -78,3 +78,8 @@ HTML Tag হল কোডের সেই অংশ যা ব্রাউজা
 
 1.What is ES6?
 Answer: ES6 (ECMAScript 2015) is a major update to JavaScript that introduced new features like let, const, arrow functions, template literals, destructuring, and modules.
+
+2.What is the difference between let, const, and var?
+var: Function-scoped, can be redeclared, hoisted.
+let: Block-scoped, cannot be redeclared, but its value can be reassigned(mutable)
+const: Block-scoped, cannot be redeclared or reassigned(immutable)
