@@ -88,4 +88,6 @@ HTML Tag হল কোডের সেই অংশ যা ব্রাউজা
   Answer: Arrow functions allow a short syntax for writing function expressions.
   You don't need the function keyword, the return keyword, and the curly brackets
 
--
+- 4.Template Literals কী?
+  Answer: Template Literals ব্যাকটিক (`) ব্যবহার করে স্ট্রিং লেখার সুবিধা দেয় এবং when you need to include variables or expressions inside a string.
+  Answer: Template Literals (``) ডাইনামিক স্ট্রিং তৈরির জন্য ব্যবহার হয়।
